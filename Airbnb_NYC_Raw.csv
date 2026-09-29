@@ -1,0 +1,28 @@
+column_name	description
+listing_id	Unique listing identifier
+listing_name	Listing title
+host_id	Unique host identifier
+host_name	Host display name
+borough	NYC borough
+neighbourhood	Neighbourhood
+latitude	Latitude
+longitude	Longitude
+room_type	Room type
+price_usd	Nightly price in USD
+minimum_nights	Minimum nights
+number_of_reviews	Total reviews
+reviews_per_month	Average monthly reviews
+review_score	Review score (0-5)
+availability_365	Available days in a 365-day period
+number_of_reviews_ltm	Reviews in the last 12 months
+calculated_host_listings_count	Number of listings managed by host
+instant_bookable	Instant booking availability
+host_response_rate_pct	Host response rate percentage
+property_type	Property category
+accommodates	Maximum guests accommodated
+beds	Number of beds
+bathrooms	Number of bathrooms
+price_category	Price segment
+availability_category	Availability segment
+host_type	Host segment
+estimated_annual_revenue_usd	Estimated annual revenue proxy in USD
